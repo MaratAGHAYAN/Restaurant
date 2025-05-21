@@ -1,0 +1,6 @@
+id,name,ingredients,price,priority
+1,Burger,"Bun, Patty, Sauce, Tomato, Cheese",3900.0,400
+2,Salad,"Mix_Lettuce, Tomato, Cucumber, Yellow_Pepper, Feta_Cheese, Olives, Olive_Oil",2500.0,300
+3,Pizza,"Dough, Tomato_Sauce, Pepperoni, Ham, Bacon, Olives, Mozzarella",3000.0,600
+4,Pasta,"Chicken, Mushrooms, Parmesan, Cream",2900.0,500
+5,Steak,"Beef, Vegetables, Seasonings",1200.0,360

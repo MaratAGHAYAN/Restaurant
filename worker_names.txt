@@ -1,0 +1,39 @@
+{
+    "chefs": [
+        {
+            "name": "Vardan",
+            "surname": "Vardanyan",
+            "agility": 4
+        },
+        {
+            "name": "Karen",
+            "surname": "Karapetyan",
+            "agility": 1
+        },
+        {
+            "name": "Avet",
+            "surname": "Barseghyan",
+            "agility": 3
+        },
+        {
+            "name": "Gurgen",
+            "surname": "Atoyan",
+            "agility": 5
+        },
+        {
+            "name": "Taron",
+            "surname": "Tariverdyan",
+            "agility": 2
+        }
+    ],
+    "servers": [
+        {
+            "name": "Vahagn",
+            "surname": "Aghabekyan"
+        },
+        {
+            "name": "Petros",
+            "surname": "Davtyan"
+        }
+    ]
+}
